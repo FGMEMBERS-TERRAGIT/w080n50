@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Airport/ndb.ac -76.523056 56.536944 57.5 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -76.52026 56.53915 0.00 175.25
+# END dsf2stg
